@@ -1,0 +1,44 @@
+
+body {
+    background-color: lightblue;
+
+}
+
+h1 {
+    color: #fff;  
+    background: rgb(27, 6, 146);
+    width: 270px;
+}
+
+h4 {
+    padding-top: 20px;
+    color: #fff;  
+    background: rgb(27, 6, 146);
+    width: 500px;
+}
+
+#result {
+    color: #fff; 
+    background: rgb(27, 6, 146);
+    width: 150px;
+}
+
+
+#previous {
+    color: #fff; 
+    background: rgb(27, 6, 146);
+    width: 150px;
+}
+
+.crystals{
+    display: flex;
+    justify-content: space-around;
+    align-items: left;
+    position: absolute;
+}
+
+.crystal{
+    border: 1px solid blue;
+    height: 200px;
+    width: 200px;
+}
